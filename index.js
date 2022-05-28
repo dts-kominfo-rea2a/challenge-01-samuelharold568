@@ -12,7 +12,7 @@ const firstUser = {
         {name: "SD 01", city: "Jakarta", graduate:"2016"},
         {name: "SMP 02", city: "Jakarta", graduate: "2019"},
         {name: "SMA 03", city: "Tangerang"}],
-    favoriteRestaurant: ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"],
+    favoriteRestaurant: ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok"],
 };
 const secondUser = {
     name: "Wendy",
@@ -26,7 +26,7 @@ const secondUser = {
         {	name: "SMA 01", city: "Surabaya", graduate: "2016"},
         {name: "Universitas Maju", city: "Tangerang"}
     ],
-    favoriteRestaurant: ["Tempura","Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"]
+    favoriteRestaurant: ["Tempura","Bento", "Sushi", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"]
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
