@@ -12,7 +12,7 @@ const firstUser = {
         {name: "SD 01", city: "Jakarta", graduate:"2016"},
         {name: "SMP 02", city: "Jakarta", graduate: "2019"},
         {name: "SMA 03", city: "Tangerang"}],
-    favoriteRestaurant: ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok"],
+    favoriteRestaurant: ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Padang", "Tteok"],
 };
 const secondUser = {
     name: "Wendy",
